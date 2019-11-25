@@ -1,2 +1,2 @@
 # Wordlist-Generator
-Generate customized wordlists for password cracking
+Generate customized wordlists for brute forcing passwords
